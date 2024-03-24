@@ -1,5 +1,5 @@
 # ArbDelegateDNA
-This repository hosts the analysis of potential colluding behavior among delegates in the context of governance voting within voting platforms. Leveraging data from 153 Snapshot Proposals and 28 Tally Proposals, we've meticulously selected 96 proposals that exhibit diverse voting patterns, ensuring no proposal received more than 80% of votes for a single answer. This refined dataset allowed us to construct what we refer to as the 'Delegate DNA' vector, a unique identifier of voting behavior patterns for each delegate.
+This repository hosts the analysis of potential similar behavior among delegates in the context of governance voting within voting platforms. Leveraging data from 153 Snapshot Proposals and 28 Tally Proposals, we've meticulously selected 96 proposals that exhibit diverse voting patterns, ensuring no proposal received more than 80% of votes for a single answer. This refined dataset allowed us to construct what we refer to as the 'Delegate DNA' vector, a unique identifier of voting behavior patterns for each delegate.
 
 <img src="www/DemoGif.gif" align="center"/>
 
