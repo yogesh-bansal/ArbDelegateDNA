@@ -45,7 +45,11 @@ A key metric in our analysis, the Similarity Score, is calculated as the ratio o
 
 Our `ArbDelegateDNA` repo contains a shiny app which analyzes and visualizes data to uncover patterns of support and potential centralization of power within governance voting on Snapshot and Tally.
 
-#### 1. Start the Shiny App
+#### 1. Calculate the Similarity Scores based on DelegateDNA
+
+- `Rscript DNAdataCalcRaw.R`
+
+#### 2. Start the Shiny App
 
 - Open R console and Type `shiny::runApp()`
 
