@@ -13,7 +13,7 @@ ui <- fluidPage(theme = bs_theme(bootswatch = "sandstone"),
   fluidRow(
     column(width = 3,tags$a(target = "_blank", href="https://thankarb.com/", tags$img(src = "images/AF_lockup_navy.png", height="80px")),align="left"),
     column(width = 6,h2("Delegate Network Visualization Based on Voting Patterns"),align="center"),
-    column(width = 3,tags$a(target = "_blank", href="https://app.dework.xyz/datagrants-thankar", tags$img(src = "images/odcarb.png", height="100px")),align="right"),
+    column(width = 3,tags$a(target = "_blank", href="https://app.dework.xyz/datagrants-thankar", tags$img(src = "images/odc.png", height="100px")),align="right"),
   ),
   tabsetPanel(
     tabPanel("Delegate Networks Clusters",
